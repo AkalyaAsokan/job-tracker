@@ -1,0 +1,32 @@
+{
+  "personal": {
+    "firstName": "Akalya",
+    "lastName": "Asokan",
+    "fullName": "Akalya Asokan",
+    "email": "akalyaasokan@gmail.com",
+    "phone": "+16076975222",
+    "location": "Jersey City, NJ",
+    "city": "Jersey City",
+    "state": "NJ",
+    "linkedin": "https://www.linkedin.com/in/AkalyaAsokan",
+    "github": "https://github.com/AkalyaAsokan",
+    "resumePath": "/Users/akalyaasokan/Desktop/Akalya Asokan Resume.pdf",
+    "yearsOfExperience": "4",
+    "workAuthorization": "Yes",
+    "requiresSponsorship": "No",
+    "university": "Cornell University",
+    "degree": "MEng Computer Science"
+  },
+  "keywords": [
+    "Python", "Java", "C++", "C#", "JavaScript", "TypeScript",
+    "React", "ReactJS", "AngularJS", ".NET", "Node.js",
+    "SQL", "DuckDB", "MySQL", "PostgreSQL",
+    "Azure", "AWS", "cloud",
+    "REST", "REST APIs", "microservices",
+    "LLM", "machine learning", "ML",
+    "distributed systems", "pipeline", "ETL",
+    "backtesting", "multithreading", "data caching",
+    "operating systems", "backend", "full stack", "data engineering",
+    "Git", "VMware", "load balancing"
+  ]
+}
